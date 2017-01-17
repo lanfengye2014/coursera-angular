@@ -1,0 +1,27 @@
+{
+  "name": "coursera-angular-1",
+  "version": "1.0.0",
+  "description": "angular1 study",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.5.7",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanfengye2014/coursera-angular.git"
+  },
+  "keywords": [
+    "angular",
+    "study"
+  ],
+  "author": "lanfengye2014",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lanfengye2014/coursera-angular/issues"
+  },
+  "homepage": "https://github.com/lanfengye2014/coursera-angular#readme"
+}
